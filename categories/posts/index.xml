@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Musings of Pankaj Niroula</title>
+    <title>Posts on Pankaj NIROULA</title>
     <link>https://pankajniroula.com.np/categories/posts/</link>
-    <description>Recent content in Posts on Musings of Pankaj Niroula</description>
+    <description>Recent content in Posts on Pankaj NIROULA</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
+    <language>en-EN</language>
+    <copyright>All Permissions Granted for Reuse</copyright>
     <lastBuildDate>Sat, 24 Nov 2018 20:54:30 +0545</lastBuildDate>
     
 	<atom:link href="https://pankajniroula.com.np/categories/posts/index.xml" rel="self" type="application/rss+xml" />
@@ -17,8 +18,7 @@
       <pubDate>Sat, 24 Nov 2018 20:54:30 +0545</pubDate>
       
       <guid>https://pankajniroula.com.np/posts/first-post/</guid>
-      <description>Hello Hugo World!
-No more Excuses.</description>
+      <description>This is a test blog.</description>
     </item>
     
   </channel>
