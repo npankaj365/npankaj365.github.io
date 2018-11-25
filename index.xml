@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-EN</language>
     <copyright>All Permissions Granted for Reuse</copyright>
-    <lastBuildDate>Sat, 24 Nov 2018 20:54:30 +0545</lastBuildDate>
+    <lastBuildDate>Sun, 25 Nov 2018 10:13:42 +0545</lastBuildDate>
     
 	<atom:link href="https://pankajniroula.com.np/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>About</title>
+      <link>https://pankajniroula.com.np/about/</link>
+      <pubDate>Sun, 25 Nov 2018 10:13:42 +0545</pubDate>
+      
+      <guid>https://pankajniroula.com.np/about/</guid>
+      <description>This is the home of Pankaj Niroula in the web. Pankaj Niroula is a curious explorer and an avid reader of all things fascinating. He likes to explore ideas, thoughts and principles of everything he is exposed to in the world. Particularly, he is passionate about Philosophy, Computer Science and Human Psychology.</description>
+    </item>
     
     <item>
       <title>First Post</title>
