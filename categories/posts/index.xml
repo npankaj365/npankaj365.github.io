@@ -7,18 +7,18 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-EN</language>
     <copyright>All Permissions Granted for Reuse</copyright>
-    <lastBuildDate>Sat, 24 Nov 2018 20:54:30 +0545</lastBuildDate>
+    <lastBuildDate>Sat, 01 Dec 2018 20:51:30 +0545</lastBuildDate>
     
 	<atom:link href="https://pankajniroula.com.np/categories/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>First Post</title>
-      <link>https://pankajniroula.com.np/first-post/</link>
-      <pubDate>Sat, 24 Nov 2018 20:54:30 +0545</pubDate>
+      <title>Welcome</title>
+      <link>https://pankajniroula.com.np/welcome/</link>
+      <pubDate>Sat, 01 Dec 2018 20:51:30 +0545</pubDate>
       
-      <guid>https://pankajniroula.com.np/first-post/</guid>
-      <description>This is a test blog.</description>
+      <guid>https://pankajniroula.com.np/welcome/</guid>
+      <description>Welcome to the blog. Here you will find thoughts, ideas and contents that I discover as I live, explore and learn.</description>
     </item>
     
   </channel>

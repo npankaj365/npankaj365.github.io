@@ -22,12 +22,31 @@
     </item>
     
     <item>
-      <title>First Post</title>
-      <link>https://pankajniroula.com.np/first-post/</link>
-      <pubDate>Sat, 24 Nov 2018 20:54:30 +0545</pubDate>
+      <title>Welcome</title>
+      <link>https://pankajniroula.com.np/welcome/</link>
+      <pubDate>Sat, 01 Dec 2018 20:51:30 +0545</pubDate>
       
-      <guid>https://pankajniroula.com.np/first-post/</guid>
-      <description>This is a test blog.</description>
+      <guid>https://pankajniroula.com.np/welcome/</guid>
+      <description>Welcome to the blog. Here you will find thoughts, ideas and contents that I discover as I live, explore and learn.</description>
+    </item>
+    
+    <item>
+      <title>Brahma</title>
+      <link>https://pankajniroula.com.np/poem/brahma/</link>
+      <pubDate>Sat, 01 Dec 2018 19:24:54 +0545</pubDate>
+      
+      <guid>https://pankajniroula.com.np/poem/brahma/</guid>
+      <description>By Ralph Waldo Emerson
+If the red slayer think he slays,
+Or if the slain think he is slain,
+They know not well the subtle ways
+I keep, and pass, and turn again.
+Far or forgot to me is near;
+Shadow and sunlight are the same;
+The vanished gods to me appear;
+And one to me are shame and fame.
+They reckon ill who leave me out;
+When me they fly, I am the wings;</description>
     </item>
     
   </channel>
